@@ -1,5 +1,5 @@
 {
-    "name": "google/php7apiclient",
+    "name": "metromix/googleapiclient",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
