@@ -1,12 +1,12 @@
 {
-    "name": "google/apiclient",
+    "name": "google/php7apiclient",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
     "homepage": "http://developers.google.com/api-client-library/php",
     "license": "Apache-2.0",
     "require": {
-        "php": ">=5.4",
+        "php": ">=5.4|>=7.0",
         "google/auth": "0.9",
         "google/apiclient-services": "*@dev",
         "firebase/php-jwt": "~2.0|~3.0",
